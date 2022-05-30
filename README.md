@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Priyanshu Srivastava
-## 🌱 I'm skilled in Full Stack Web Development
-## 💬 Ask me about DSA, web dev & python 😌
-## 🔭 I'm an enthuiastic learner.
-## 🤔 I'm currently starting to learn data sceince
-## 📫 Contact me at priyanshu.31082003@gmail.com
+🌱 I'm skilled in Full Stack Web Development
+💬 Ask me about DSA, web dev & python 😌
+🔭 I'm an enthuiastic learner.
+🤔 I'm currently starting to learn data sceince
+📫 Contact me at priyanshu.31082003@gmail.com
 
 <!--
 **priyanshu31/priyanshu31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
