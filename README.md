@@ -2,7 +2,7 @@
 - 🌱 I'm skilled in Full Stack Web Development
 - 💬 Ask me about DSA, web dev & python 😌
 - 🔭 I'm an enthuiastic learner
-- 🤔 I'm currently starting to learn data sceince
+- 🤔 I have currently started to learn data sceince
 - 📫 Contact me at priyanshu.31082003@gmail.com
 
 <!--
