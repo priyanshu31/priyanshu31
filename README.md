@@ -3,7 +3,7 @@
 - 💬 Ask me about DSA, web dev & python 😌
 - 🔭 I'm an enthuiastic learner
 - 🤔 I have currently started to learn data sceince
-- 📫 Contact me at priyanshu.31082003@gmail.com
+- 📫 Contact me at priyanshu.sr01@gmail.com
 
 <!--
 **priyanshu31/priyanshu31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
