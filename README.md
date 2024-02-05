@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Priyanshu Srivastava
-- 🌱 I'm skilled in Full Stack Web Development
-- 💬 Ask me about DSA, web dev & python 😌
+- 🌱 I'm skilled Software Developer
+- 💬 Ask me about DSA, Development, ML or DL
 - 🔭 I'm an enthuiastic learner
-- 🤔 I have currently started to learn data sceince
 - 📫 Contact me at priyanshu.sr01@gmail.com
 
 <!--
